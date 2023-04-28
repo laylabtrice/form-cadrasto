@@ -1,0 +1,47 @@
+@import url('https://fonts.googleapis.com/css2?family=Modak&display=swap');
+@import url('https://fonts.googleapis.com/css2?family=Dela+Gothic+One&display=swap');
+
+body{
+    margin: 0px;
+    background-color: #ca9ae4;
+    display: flex;
+    justify-content: center;
+    align-items: center;
+    min-height: 100vh;
+}
+#form{
+    text-align: center;
+    background: #ca1dd757;
+    padding: 20px;
+    border-radius: 5px;
+    border: 1px solid #f4f4f4;
+}
+hr{
+    border: .1px dashed #fff;
+}
+h1{
+    color: #fff;
+    font-family: 'Modak', cursive;
+    letter-spacing: 2px;
+    font-weight: 100;
+    font-size: 4rem;
+}
+input{
+    font-family: 'Dela Gothic One', cursive;
+    font-size: 17px;
+    padding: 5px 10px;
+    outline: none;
+}
+button{
+    font-family: 'Dela Gothic One', cursive;
+    color: #fff;
+    background: linear-gradient(to right,#893ecf, #c84ae8, #893ecf);
+    border: 1px solid #fff;
+    font-size: 30px;
+    transition: .33s;
+    cursor: pointer;
+}
+button:hover{
+    background: linear-gradient(to right,#c84ae8,#893ecf ,#c84ae8);
+    color: #fff;
+}
