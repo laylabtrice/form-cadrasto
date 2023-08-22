@@ -4,7 +4,7 @@ function validar() {
     var telefone =           document.getElementById("telefone").value;
     var data_de_nascimento = document.getElementById("data").value;
     var cpf =                document.getElementById("cpf").value;
-    var gender =                document.getElementById("cpf").value;
+    var gender =             document.getElementById("cpf").value;
     var cidadepaís =         document.getElementById("cidadepaís").value;
     var ruabairro =          document.getElementById("ruabairro").value;
     var number =             document.getElementById("numero").value;
