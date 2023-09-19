@@ -1,4 +1,4 @@
-![Meu projeto de cadastro.]()
+[Meu projeto de cadastro.]()
 ## Projeto da Layla, cadastrar usuários.
 # Cadastro com informações mais completas.
 
