@@ -1,5 +1,5 @@
-![Meu projeto de cadastro.](https://github.com/laylabtrice/form-cadrasto/assets/127868872/fe32c242-7298-4a86-aba5-c80a0f545946)
-## Projetinho da Layla, cadastrar usuários. 💕💕💕
+![Meu projeto de cadastro.]()
+## Projeto da Layla, cadastrar usuários.
 # Cadastro com informações mais completas.
 
 Projeto feito para complementar as informações do projeto anterior, focando nas informações que faltaram durante a escrita para o endereço.
