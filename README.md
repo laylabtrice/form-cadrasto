@@ -1,7 +1,7 @@
 # Índice
-[Introdução](#introdu%C3%A7%C3%A3o) 
-[Descrição de Funcionalidades](#descri%C3%A7%C3%A3o-de-funcionalidades) 
-[Teclonogias](#tecnologias) 
+[Introdução](#introdu%C3%A7%C3%A3o)  
+[Descrição de Funcionalidades](#descri%C3%A7%C3%A3o-de-funcionalidades)  
+[Teclonogias](#tecnologias)  
 
 # Projeto de cadastro com informações mais completas.
 
