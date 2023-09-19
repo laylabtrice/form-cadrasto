@@ -2,6 +2,7 @@
 [Introdução](#introdu%C3%A7%C3%A3o)  
 [Descrição de Funcionalidades](#descri%C3%A7%C3%A3o-de-funcionalidades)  
 [Teclonogias](#tecnologias)  
+[Autor](#autor)
 
 # Projeto de cadastro com informações mais completas.
 
@@ -28,5 +29,6 @@ Assim como feito apartir do projeto anterior, essa correção serve para basicam
 * GIT, GITHUB;
 * README...
 
-## Autor do projeto- [@Layla Beatrice](https://www.github.com/laylabtrice) 
+# Autor
+## projeto por- [@Layla Beatrice](https://www.github.com/laylabtrice) 
 
