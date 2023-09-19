@@ -1,10 +1,9 @@
 # Índice
-[Introdução](#introdu%C3%A7%C3%A3o)
-[Descrição de Funcionalidades](#descri%C3%A7%C3%A3o-de-funcionalidades)
-[Teclonogias](#tecnologias)
+[Introdução](#introdu%C3%A7%C3%A3o) 
+[Descrição de Funcionalidades](#descri%C3%A7%C3%A3o-de-funcionalidades) 
+[Teclonogias](#tecnologias) 
 
-## Projeto da Layla, cadastrar usuários.
-# Cadastro com informações mais completas.
+# Projeto de cadastro com informações mais completas.
 
 Projeto feito para complementar as informações do projeto anterior, focando nas informações que faltaram durante a escrita para o endereço.
 
