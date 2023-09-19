@@ -23,8 +23,8 @@ Assim como feito apartir do projeto anterior, essa correção serve para basicam
 
 # Tecnologias:
 * JavaScript;
-* CSS;
-* HTML;
+* CSS 3;
+* HTML 5;
 * Google Fonts;
 * GIT, GITHUB;
 * README...
