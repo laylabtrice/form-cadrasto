@@ -4,7 +4,6 @@ function validar() {
     var telefone =           document.getElementById("telefone").value;
     var data_de_nascimento = document.getElementById("data").value;
     var cpf =                document.getElementById("cpf").value;
-    var gender =             document.getElementById("cpf").value;
     var cidadepaís =         document.getElementById("cidadepaís").value;
     var ruabairro =          document.getElementById("ruabairro").value;
     var number =             document.getElementById("numero").value;
@@ -21,3 +20,17 @@ function validar() {
         } else { alert('As senha não se coincidem!') }
     }
 };
+
+//Preenche os campos relacionados ao CEP
+const preencherForumulario = (endereco) =>{
+    document.getElementById('rua').value = endereco.logradouro;
+    document.getElementById('bairro').value = endereco.bairro;
+    document.getElementById('cidade').value = endereco.localidade;
+    document.getElementById('estado').value = endereco.uf;
+}
+
+//Verifica se o CEP é válido
+const eNumero = (numero) => /^[0-9]+$/.test(numero); //Expressão Regular
+// É possível testar e entender a RegEx em https://www.regexpal.com/
+const cepValido = (cep) => cep.length == 8 && eNumero(cep);
+'use strict'; //Strict mode
