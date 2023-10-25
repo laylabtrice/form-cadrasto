@@ -17,7 +17,7 @@ function validar() {
         alert('Algo está errado! Preencha corretamente seu cadastro!');
     } else {
         if(senha === repetir_senha) {
-            alert('Seu cadastro foi realizado :)');
+            alert('Seu cadastro foi realizado com sucesso :)');
         } else { alert('As senha não se coincidem!') }
     }
 };
