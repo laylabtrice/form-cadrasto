@@ -3,7 +3,7 @@
 
 body{
     margin: 0px;
-    background-color: #ca9ae4;
+    background-color: #9ac5e4;
     display: flex;
     justify-content: center;
     align-items: center;
@@ -11,7 +11,7 @@ body{
 }
 #form{
     text-align: center;
-    background: #ca1dd757;
+    background: #641dd757;
     padding: 20px;
     border-radius: 5px;
     border: 1px solid #f4f4f4;
@@ -35,13 +35,13 @@ input{
 button{
     font-family: 'Dela Gothic One', cursive;
     color: #fff;
-    background: linear-gradient(to right,#893ecf, #c84ae8, #893ecf);
+    background: linear-gradient(to right,#4a3ecf, #4acbe8, #3e4fcf);
     border: 1px solid #fff;
     font-size: 30px;
     transition: .33s;
     cursor: pointer;
 }
 button:hover{
-    background: linear-gradient(to right,#c84ae8,#893ecf ,#c84ae8);
+    background: linear-gradient(to right,#554ae8,#3e9fcf ,#4a67e8);
     color: #fff;
 }
