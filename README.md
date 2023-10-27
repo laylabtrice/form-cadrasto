@@ -18,6 +18,8 @@ Esse novo projeto foi criado para a correção do anterior com falta de informa�
 Sistema para:
 * Cadastrar usuários novos.
 * Contém novas informações de: gênero, cep, cidade, estado, número e bairro.
+* Auto-complete de informações como: Cidade, Rua, Estado pelo CEP.
+* Adicionar Implementação do padrão de telefone
 
 Assim como feito apartir do projeto anterior, essa correção serve para basicamente para cadastrar novos usuários em uma plataforma qualquer, contendo informações completas para que isso seja concluído da melhor forma. 
 
@@ -27,8 +29,22 @@ Assim como feito apartir do projeto anterior, essa correção serve para basicam
 * HTML 5;
 * Google Fonts;
 * GIT, GITHUB;
-* README...
+* README
+
+# **Inspirações de e-comerce:**
+- Americanas (Campos)
+- eBay (Padrão de Telefone)
+- Alibaba (Auto Completar o Cep)
+- Etsy (Campos)
+
+| Novas Implementações |
+| -------------------- |
+| Auto Completar o endereço |
+| Adicionar Padrão de telefone |
+| Remover Campo **"Bairro"** | 
 
 # Autor
-## projeto por- [@Layla Beatrice](https://www.github.com/laylabtrice) 
+## projeto por- [@Layla Beatrice](https://www.github.com/laylabtrice)
 
+# Auxilio
+## projeto por- [@Vitor Gabriel](https://www.github.com/vitorgabrieldev)
