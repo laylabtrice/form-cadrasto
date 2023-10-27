@@ -8,7 +8,9 @@
 
 Projeto feito para complementar as informações do projeto anterior, focando nas informações que faltaram durante a escrita para o endereço.
 
-![Imagem do projeto](img/printcadast.png)
+![Imagem do projeto](img/inicio.png)
+### Segunda parte
+![Imagem do projeto](img/senha.png)
 
 # Introdução: 
 
@@ -26,6 +28,13 @@ Sistema para:
 
 Assim como feito apartir do projeto anterior, essa correção serve para basicamente para cadastrar novos usuários em uma plataforma qualquer, contendo informações completas para que isso seja concluído da melhor forma. 
 
+# Notificações:
+* Caso cadastro incorreto:
+![Imagem do projeto](img/errado.png)
+
+* Caso cadastro correto:
+![Imagem do projeto](img/completo.png)
+
 # Tecnologias:
 * JavaScript;
 * CSS 3;
@@ -39,6 +48,10 @@ Assim como feito apartir do projeto anterior, essa correção serve para basicam
 - eBay (Padrão de Telefone)
 - Alibaba (Auto Completar o Cep)
 - Etsy (Campos)
+
+# **Alguns links:**
+* [Alura -  Como escrever um README](https://www.alura.com.br/artigos/escrever-bom-readme)
+* [Via CEP - Consulte CEP](https://viacep.com.br/)
 
 | Novas Implementações |
 | -------------------- |
