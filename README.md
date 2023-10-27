@@ -14,12 +14,15 @@ Projeto feito para complementar as informações do projeto anterior, focando na
 
 Esse novo projeto foi criado para a correção do anterior com falta de informações de endereço, tal que foi corrigido, e o cadastro pode ser feito com maior precisão. Contendo área aberta para todos os gêneros e um opcional de complemento na área de endereço. Além da falta de README/incompleto, sem explicação completas e imagens do atual site presentes..
 
+Ativ nova: correção com o DDD do celular, e cep preenche automaticamente os campos de endereço.
+
 # Descrição de Funcionalidades:
 Sistema para:
 * Cadastrar usuários novos.
 * Contém novas informações de: gênero, cep, cidade, estado, número e bairro.
 * Auto-complete de informações como: Cidade, Rua, Estado pelo CEP.
-* Adicionar Implementação do padrão de telefone
+* Adicionar Implementação do padrão de telefone.
+* Adicionado: DDD de telefone e cep para preenchimento dos campos de endereço.
 
 Assim como feito apartir do projeto anterior, essa correção serve para basicamente para cadastrar novos usuários em uma plataforma qualquer, contendo informações completas para que isso seja concluído da melhor forma. 
 
@@ -29,7 +32,7 @@ Assim como feito apartir do projeto anterior, essa correção serve para basicam
 * HTML 5;
 * Google Fonts;
 * GIT, GITHUB;
-* README
+* README.
 
 # **Inspirações de e-comerce:**
 - Americanas (Campos)
