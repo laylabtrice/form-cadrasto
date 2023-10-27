@@ -29,11 +29,13 @@ Sistema para:
 Assim como feito apartir do projeto anterior, essa correção serve para basicamente para cadastrar novos usuários em uma plataforma qualquer, contendo informações completas para que isso seja concluído da melhor forma. 
 
 # Notificações:
-* Caso cadastro incorreto:
-![Imagem do projeto](img/errado.png)
+* Caso cadastro incorreto:  
 
-* Caso cadastro correto:
-![Imagem do projeto](img/completo.png)
+![Imagem](img/incorreto.png)
+
+* Caso cadastro correto:  
+
+![Imagem](img/cadastrofeito.png)
 
 # Tecnologias:
 * JavaScript;
